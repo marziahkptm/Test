@@ -1,0 +1,30 @@
+Exemple chapitre 07 - cookbook Java2
+
+
+- installez Jakarta Tomcat
+- modifiez le fichier 'server.xml' de Tomcat
+  en ajoutant
+  '<Context path="/news" docBase="news" debug="0" reloadable="true"/>'
+  juste avant le premier tag <Context>
+
+- copiez le repertoire contenant ce fichier lisezmoi.txt
+  dans le sous-repertoire webapps de TOMCAT
+
+- redémarrez tomcat si il était démarré sinon démarrez-le.
+
+------------------------------------------
+- installer Mysql
+
+- créer une base 'bdd' (attention à la casse!)
+
+- lancer le script 'creation.sql' de ce repertoire pour la base 'bdd'
+
+
+
+
+pour accéder à l'exemple :
+
+ http://localhost:8080/news
+ou
+ http://localhost:8080/news/index.html
+

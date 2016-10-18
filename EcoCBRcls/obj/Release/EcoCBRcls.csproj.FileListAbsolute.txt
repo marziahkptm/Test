@@ -1,4 +1,0 @@
-D:\EcoCBR_bak\EcoCBRcls\bin\Release\EcoCBRcls.dll
-D:\EcoCBR_bak\EcoCBRcls\bin\Release\EcoCBRcls.pdb
-D:\EcoCBR_bak\EcoCBRcls\obj\Release\EcoCBRcls.dll
-D:\EcoCBR_bak\EcoCBRcls\obj\Release\EcoCBRcls.pdb

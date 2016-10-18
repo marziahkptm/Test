@@ -1,7 +1,0 @@
-D:\EcoCBR_bak\EcoCBR_DB\bin\Release\EcoCBR_DB.dll
-D:\EcoCBR_bak\EcoCBR_DB\bin\Release\EcoCBR_DB.pdb
-D:\EcoCBR_bak\EcoCBR_DB\bin\Release\EcoCBRcls.dll
-D:\EcoCBR_bak\EcoCBR_DB\bin\Release\EcoCBRcls.pdb
-D:\EcoCBR_bak\EcoCBR_DB\obj\Release\EcoCBR_DB.csprojResolveAssemblyReference.cache
-D:\EcoCBR_bak\EcoCBR_DB\obj\Release\EcoCBR_DB.dll
-D:\EcoCBR_bak\EcoCBR_DB\obj\Release\EcoCBR_DB.pdb
