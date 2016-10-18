@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-    <classpathentry kind="src" path=""/>
-    <classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
-    <classpathentry kind="lib"
-        path="/usr/local/mm.mysql.jdbc-1.2c/mysql_comp.jar"
-        rootpath="org/gjt/mm/mysql" sourcepath="/usr/local/mm.mysql.jdbc-1.2c/mysql_uncomp.jar"/>
-    <classpathentry kind="output" path=""/>
-</classpath>
