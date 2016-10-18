@@ -4,7 +4,3 @@ script:    # the following commands are just examples, use whatever your build p
   - ./build.sh
   - ./test.sh
   - grep "Test Results" build.log
-  
-  install:
-  - sudo apt-get install -y gtk-sharp2
-  - nuget restore solution-name.sln
