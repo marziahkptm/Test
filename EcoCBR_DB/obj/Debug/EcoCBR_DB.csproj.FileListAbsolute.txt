@@ -1,0 +1,14 @@
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\bin\Debug\EcoCBR_DB.dll
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\bin\Debug\EcoCBR_DB.pdb
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\bin\Debug\EcoCBRcls.dll
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\bin\Debug\EcoCBRcls.pdb
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\obj\Debug\EcoCBR_DB.csprojResolveAssemblyReference.cache
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\obj\Debug\EcoCBR_DB.dll
+D:\irfan\temp\FL\marziah\EcoCBR\EcoCBR_DB\obj\Debug\EcoCBR_DB.pdb
+D:\EcoCBR_bak\EcoCBR_DB\bin\Debug\EcoCBR_DB.dll
+D:\EcoCBR_bak\EcoCBR_DB\bin\Debug\EcoCBR_DB.pdb
+D:\EcoCBR_bak\EcoCBR_DB\bin\Debug\EcoCBRcls.dll
+D:\EcoCBR_bak\EcoCBR_DB\bin\Debug\EcoCBRcls.pdb
+D:\EcoCBR_bak\EcoCBR_DB\obj\Debug\EcoCBR_DB.csprojResolveAssemblyReference.cache
+D:\EcoCBR_bak\EcoCBR_DB\obj\Debug\EcoCBR_DB.dll
+D:\EcoCBR_bak\EcoCBR_DB\obj\Debug\EcoCBR_DB.pdb
