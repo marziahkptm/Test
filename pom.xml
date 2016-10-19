@@ -23,7 +23,7 @@
   <scm>
     <url>https://github.com/SquareSquash/java</url>
     <connection>scm:git:git://github.com/SquareSquash/java.git</connection>
-    <developerConnection>scg:git:git@github.com/SquareSquash/java.git</developerConnection>
+    <developerConnection>scg:git@github.com:marziahkptm/Test.git</developerConnection>
   </scm>
 
   <organization>
@@ -33,7 +33,7 @@
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/SquareSquash/java/issues</url>
+    <url>https://github.com/marziahkptm/Test.git/issues</url>
   </issueManagement>
 
   <licenses>
